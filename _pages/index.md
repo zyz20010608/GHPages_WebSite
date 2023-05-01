@@ -7,6 +7,8 @@ permalink: /
 
 
 
+
+
 ---
 
 以下テンプレート
@@ -44,4 +46,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](https://kithub.jp/wp-content/uploads/2023/03/logo-text-bottom.png)
+![image](/GHPages_WebSite/assets/images/logo-150.png)
