@@ -9,3 +9,4 @@ zyzoneと申します、近畿大学の理工学部電気電子通信工学科�
 
 よろしくお願いいたします
 
+blog link:[ZYZONE](zyzone.top)
